@@ -1,0 +1,3 @@
+"D:\Microsoft VS Code\cmake-4.2.0-rc3-windows-x86_64\bin\cmake.exe" -E rm -f CMakeFiles\cmake_practice_1.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\cmake_practice_1.dir/objects.a @CMakeFiles\cmake_practice_1.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\cmake_practice_1.dir/objects.a -Wl,--no-whole-archive -o cmake_practice_1.exe -Wl,--out-implib,libcmake_practice_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmake_practice_1.dir\linkLibs.rsp

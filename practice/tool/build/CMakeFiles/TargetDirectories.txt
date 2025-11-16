@@ -1,0 +1,3 @@
+C:/Users/lzm/Desktop/practice/tool/build/CMakeFiles/cmake_practice_1.dir
+C:/Users/lzm/Desktop/practice/tool/build/CMakeFiles/edit_cache.dir
+C:/Users/lzm/Desktop/practice/tool/build/CMakeFiles/rebuild_cache.dir
